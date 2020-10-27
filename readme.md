@@ -15,7 +15,7 @@
 
 ![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817185806.png)
 
-![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817190036.png)	
+![](https://raw.githubusercontent.com/lxy764    139720/Figurebed/master/img/20200817190036.png)	
 
 ## Usage
 
